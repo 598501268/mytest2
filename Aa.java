@@ -3,6 +3,5 @@ public class Mytext{
 	public String name;
 	public Integer id;
 	public String addr;
-	public int b;
-	public int a;
+	public long dd;
 }
